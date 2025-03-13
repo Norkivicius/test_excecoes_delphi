@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/25 12:25:04.000.385,=C:\Users\Rafael Cefaloni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:11:47.000.888,=C:\Users\Rafael Cefaloni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:23:50.000.244,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uFrmVendas.dfm=C:\Users\Rafael Cefaloni\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/29 10:23:50.000.244,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uFrmVendas.pas=C:\Users\Rafael Cefaloni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:24:05.000.404,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Excecoes.dproj=C:\Users\Rafael Cefaloni\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/01/29 10:24:12.000.585,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:24:33.000.310,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVendaItem.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:24:52.000.276,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:25:45.000.901,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVendasItem.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:25:45.000.901,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVendasItem.dfm=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.dfm</Transaction>
+    <Transaction>2024/01/29 10:27:31.000.974,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVendasItem.pas=</Transaction>
+    <Transaction>2024/01/29 10:27:41.000.871,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:27:57.000.994,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVendaItem.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:30:09.000.081,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:31:28.000.127,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:33:07.000.178,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:33:21.000.394,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uVenda.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:33:38.000.995,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:33:49.000.457,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uEVendaInvalida.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:35:14.000.795,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uFrmVendas.pas=</Transaction>
+    <Transaction>2024/01/29 10:35:21.000.088,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/29 10:38:43.000.342,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uFrmVenda.dfm=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.dfm</Transaction>
+    <Transaction>2024/01/29 10:38:43.000.342,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uFrmVenda.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/30 09:39:39.000.178,=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas</Transaction>
+    <Transaction>2024/01/30 09:42:29.000.562,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.dfm=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uTesteExcecoes.dfm</Transaction>
+    <Transaction>2024/01/30 09:42:29.000.562,C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\Unit1.pas=C:\Users\Rafael Cefaloni\Desktop\Arquivos Delphi\Teste de exceções\uTesteExcecoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
